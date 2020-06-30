@@ -65,6 +65,7 @@ h2{
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
+    margin-bottom: 0;
 }
 #full-stack{
     border-left: 7px solid;
@@ -79,4 +80,8 @@ h2{
 .experience-area .half-width p{
     color: grey;
     padding-right: 15px;
+}
+footer p{
+    text-align: center;
+    font-size: 15px;
 }
